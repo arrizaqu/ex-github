@@ -1,4 +1,4 @@
-#	Git 
+# Git 
 	* 	git add
 	* 	git commit
 	* 	git pull 
