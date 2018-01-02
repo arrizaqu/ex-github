@@ -1,13 +1,13 @@
 # Git 
-	* 	git add
-	* 	git commit
-	* 	git pull 
-	* 	git remote
-	* 	git push
-	* 	git remote
-		* 	add Remote
-		* 	show remote
-		*	edit remote 	
+* 	git add
+* 	git commit
+* 	git pull 
+* 	git remote
+* 	git push
+* 	git remote
+	* 	add Remote
+	* 	show remote
+	*	edit remote 	
 # Git Add 
 ```js
 git add --all OR git add .
