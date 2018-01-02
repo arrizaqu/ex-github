@@ -41,5 +41,9 @@ git remote
 
 ## Edite Remote 
 ```js
+get current origin URL : 
 git remote get-url <name-origin>
+
+get Setup origin URL : 
+git remote set-url <name-origin>
 ```
